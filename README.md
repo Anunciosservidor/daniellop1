@@ -1,4 +1,4 @@
-<h1>👋🏻 Welcome to my profile.</h1>
+<h1>👋🏻 Welcome to my profile</h1>
 
 
 <p></br> I'm Daniel, from <img src="https://www.flaticon.es/svg/static/icons/svg/323/323365.svg" width="13"/> <b>Spain </b></p>
